@@ -12,5 +12,5 @@
 ![绘图1](/assets/绘图1.png)
 
 ### files description
-xxx_low: low filter number
-xxx_xl: extra low filter number
+ - xxx_low: low filter number
+ - xxx_xl: extra low filter number
