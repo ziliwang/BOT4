@@ -9,7 +9,8 @@
 4. stock price k-chart is a structured data presentation, there were less details in the picture, so I choosed a shallow network to this job, which constructed by a big convolution layer to catch the wide-range transaction variation and a mean pool to catch the global transaction. The output were  contacted  and inpu to a fully connected layer to catch the linear combination of the features. Last, the output of fully connected layer were inputed into another fully connected layer coupled with price features and weekday features.
 5. the picture has different part, so I cat picture into three part: k-chart, Volume and trend.
 
-![绘图1](/assets/绘图1.png)
+
+![](绘图1.png)
 
 ### files description
  - xxx_low: low filter number
